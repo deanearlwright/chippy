@@ -1,0 +1,20 @@
+#!wing
+#!version=6.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('Constants.py'),
+                  loc('Dissertation.py'),
+                  loc('Experiment.py'),
+                  loc('Experiments.py'),
+                  loc('Grid.py'),
+                  loc('QLearner.py'),
+                  loc('RollingAverage.py'),
+                  loc('Runner.py'),
+                  loc('Runners.py'),
+                  loc('Square.py'),
+                  loc('Stats.py'),
+                  loc('Vector.py'),
+                  loc('Walker.py')]
+proj.file-type = 'shared'
